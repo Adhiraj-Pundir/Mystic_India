@@ -63,9 +63,9 @@ Mystic_India/
 
 
 ## Contact Information:
-- Name: Deepanshu Chauhan
-- Enrollment Number: E23CSEU1617
-- Email: deepanshu95488@gmail.com
+- Name: Adhiraj Pundir
+- Enrollment Number: E23CSEU1620
+- Email: adhirajpundir783@gmail.com
 
 
 
